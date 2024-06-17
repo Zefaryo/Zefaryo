@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jean-Maël Legrand, 22 years old, student in computer science and software engineering at Université de Technologie de Belfort-Montbéliard (University of Technology of Belfort-Montbéliard).
+I'm Jean-Maël Legrand, a 22-year-old student studying computer science and software engineering at the Université de Technologie de Belfort-Montbéliard.
 
 I like to:
 
