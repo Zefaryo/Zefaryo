@@ -49,6 +49,10 @@ Progress :
 - [ ] Enhance building and usage/integration (In progress)
 - [ ] Create a CI/CD pipeline and github pages for the documentation and builds  (In progress, done on GitLab for the CI/CD)
 - [ ] Migrate back from my selfhosted instance of GitLab to GitHub
+- [ ] Add mobile support (In progress)
+- [X] Add passthrough (Needs improvement but working)
+- [ ] Port the rest of Dear ImGui and some extensions
 
 It is currently on my selfhosted GitLab instance since it was easier to import it there with the issues and merge requests than doing it on GitHub thanks to the integrated GitLab importer
-For GitHub to GitHub some [tools](https://github.com/IQAndreas/github-issues-import) but it's not as seamless
+
+For GitHub to GitHub some [tools](https://github.com/IQAndreas/github-issues-import) exists but it's not as seamless
